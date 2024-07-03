@@ -4,8 +4,7 @@
 About
 -----
 
-`matrices-expm` is a collection of MATLAB functions that generate the selected matrices for testing the matrix exponential. All matrices are square  
-and have a fixed size, ranging from 2-by-2 to 20-by-20. Most of the matrices are taken from the matrix exponential literature. 
+`matrices-expm` is a collection of MATLAB functions that generate the selected matrices for testing the matrix exponential. All matrices are square and have a fixed size, ranging from 2-by-2 to 20-by-20. Most of the matrices are taken from the matrix exponential literature. 
 The matrices are used in 
 
 X. Liu. Mixed-precision Paterson–Stockmeyer method for evaluating polynomials of matrices, preprint, https://arxiv.org/abs/2312.17396.
