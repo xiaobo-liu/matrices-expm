@@ -20,7 +20,7 @@ All 42 matrices are square and have a fixed size, ranging from 2-by-2 to 20-by-2
 MATLAB 2020b or newer is required for the use of Anymatrix.
 
 To include this collection as a group in the [Anymatrix](https://github.com/mmikaitis/anymatrix) collection, please download the repository and **rename** the directory from *matrices-expm* to *expm* and then **remove** the `LICENSE` and `README` files therein (as they will prevent Anymatrix to find the collection). 
-Finally, put the *expm* directory at the *root directory* of Anymatrix and run
+Finally, **put** the *expm* directory at the *root directory* of Anymatrix and **run**
 
 ```
 >> anymatrix scan
