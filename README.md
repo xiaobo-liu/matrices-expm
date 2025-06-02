@@ -4,8 +4,7 @@
 About
 -----
 
-`matrices-expm` is a collection of MATLAB functions that generate the selected matrices for testing the matrix exponential. All matrices are square and have a fixed size, ranging from 2-by-2 to 20-by-20. Most of the matrices are taken from the matrix exponential literature. 
-The matrices are used in 
+`matrices-expm` is a collection of MATLAB functions that generate the selected matrices for testing the matrix exponential. All matrices are square and have a fixed size, ranging from 2-by-2 to 20-by-20. Most of them are taken from the matrix exponential literature. The matrices are used in 
 
 X. Liu. [Mixed-precision Paterson--Stockmeyer method for evaluating polynomials of matrices](https://epubs.siam.org/doi/10.1137/24M1675734). SIAM J. Matrix Anal. Appl., 46(1):811-835, 2025.
 
@@ -60,7 +59,9 @@ Other M-files: `am_properties.m`: lists properties of the matrices and is intend
 Anymatrix Integration
 -----
 
-This collection is ready to include as a group in the Anymatrix for which the name `expm` should be used.
+This collection is ready to be included as a group in the Anymatrix for which the name `expm` should be used; see Section 10 of
+Nicholas J. Higham and Mantas Mikaitis. [Anymatrix: An Extendable MATLAB Matrix Collection, Users' Guide](https://eprints.maths.manchester.ac.uk/2834/). MIMS EPrint 2021.15, Manchester Institute for Mathematical Sciences, The University of Manchester, UK. Oct. 2021.
+
 MATLAB 2020b or newer is required for the use of Anymatrix.
 
 Contributions
