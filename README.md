@@ -59,7 +59,8 @@ Other M-files: `am_properties.m`: lists properties of the matrices and is intend
 Anymatrix Integration
 -----
 
-This collection is ready to be included as a group in the Anymatrix for which the name `expm` should be used; see Section 10 of
+This collection is ready to be included as a group in the Anymatrix for which the name `expm` should be used; see Section 10 of the manuscript
+
 Nicholas J. Higham and Mantas Mikaitis. [Anymatrix: An Extendable MATLAB Matrix Collection, Users' Guide](https://eprints.maths.manchester.ac.uk/2834/). MIMS EPrint 2021.15, Manchester Institute for Mathematical Sciences, The University of Manchester, UK. Oct. 2021.
 
 MATLAB 2020b or newer is required for the use of Anymatrix.
